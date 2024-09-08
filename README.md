@@ -1,1 +1,3 @@
-# learngit2
+# learngit3
+ทดสอบ สร้าง branch
+ลองแบบ3
